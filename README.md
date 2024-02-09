@@ -15,7 +15,7 @@ Game ini adalah project akhir mata kuliah Pemrograman Game, Teknik Informatika, 
 
 # Game Concept 
 
-Pemain akan diberi peran sebagai perencana kota perkotaan yang diatur dalam dunia yang nyata 2d. Tugasnya adalah mengubah kota menjadi kota yang berkelanjutan, ini akan menjadi permainan berbasis manajemen kota yang terbagi menjadi beberapa level.
+Pemain akan diberi peran sebagai perencana kota perkotaan yang diatur dalam dunia yang nyata berbasis 2D. Tugasnya adalah mengubah kota menjadi kota yang berkelanjutan, ini akan menjadi permainan berbasis manajemen kota yang terbagi menjadi beberapa level.
 
 # About Assets
 
